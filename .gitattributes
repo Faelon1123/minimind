@@ -1,1 +1,2 @@
 *.jsonl filter=lfs diff=lfs merge=lfs -text
+dataset/sft_t2t.jsonl filter=lfs diff=lfs merge=lfs -text
